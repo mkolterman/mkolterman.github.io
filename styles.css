@@ -8,23 +8,29 @@ Common Colors:
 /*
 Typography
 Title Font- font-family: 'Permanent Marker', cursive;
-Subtitle Font-
-Body Font-
+Subtitle Font- font-family: 'Permanent Marker', cursive; font-size: 1em;
+Body Font- font-family: 'Cedarville Cursive', cursive;
 */
 p {
   color:black;
-  font-size:big;
-  font-family:impact;
+  font-size:2em;
+  font-family: 'Cedarville Cursive', cursive;
 }
 h1 {
   color:cornflowerblue;
   font-family: 'Permanent Marker', cursive;
-  font-size: 1em;
+  font-size: 4em;
   letter-spacing: 5px;
   text-align: center;
 }
-
-/*  */
 img {
-  width:100%;
+  width:50%;
+  border-radius:50%;
+  float:left;
+  shape-outside:circle(50%);
+  margin:1.5em;
 }
+
+
+
+
