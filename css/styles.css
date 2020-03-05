@@ -9,22 +9,30 @@ Title Font- font-family: 'Permanent Marker', cursive;
 Subtitle Font- font-family: 'Permanent Marker', cursive; font-size: 1em;
 Body Font- font-family: 'Cedarville Cursive', cursive;
 */
+
+/* 404 PAGE */
+.salamander {
+  justify-content: center;
+  width: 100%;
+
+}
 h2 {
   font-family: 'Cedarville Cursive', cursive;
   font-size: 3em;
   text-align: center;
 }
-
+/* HOME PAGE */
 h4 {
   font-family: 'Cedarville Cursive', cursive;
   font-size: 2em;
   margin-bottom:0;
 }
-p {
-  color:black;
-  font-size:1em;
-  font-family: 'Cedarville Cursive', cursive;
-  
+img {
+  width:100px;
+  border-radius:50%;
+  float:left;
+  shape-outside:circle(50%);
+  margin:1.5em;
 }
 h1 {
   color:cornflowerblue;
@@ -33,12 +41,13 @@ h1 {
   letter-spacing: 5px;
   text-align: center;
 }
-img {
-  width:100px;
-  border-radius:50%;
-  float:left;
-  shape-outside:circle(50%);
-  margin:1.5em;
+main p {
+  color:black;
+  font-size:1em;
+  font-family: 'Cedarville Cursive', cursive;
+  column-count:2;
+  column-width:300px;
+  column-span: all;
 }
 /* NAV BAR */
 /* Style the links inside the pill navigation menu */
