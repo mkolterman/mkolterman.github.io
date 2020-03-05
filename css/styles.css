@@ -38,7 +38,7 @@ img {
 }
 /* NAV BAR */
 /* Style the links inside the pill navigation menu */
-.pill-nav a {
+nav a {
   display: inline-block;
   color: black;
   text-align: center;
@@ -50,13 +50,13 @@ img {
 }
 
 /* Change the color of links on mouse-over */
-.pill-nav a:hover {
+nav a:hover {
   background-color: #ddd;
   color: black;
 }
 
 /* Add a color to the active/current link */
-.pill-nav a.active {
+nav a.active {
   background-color: cornflowerblue;
   color: white;
 }
