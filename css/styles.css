@@ -3,14 +3,18 @@ Style Guide
 Common Colors:
   *Primary- cornflowerblue
   *Secondary- black
-*/
 
-/*
 Typography
 Title Font- font-family: 'Permanent Marker', cursive;
 Subtitle Font- font-family: 'Permanent Marker', cursive; font-size: 1em;
 Body Font- font-family: 'Cedarville Cursive', cursive;
 */
+h2 {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 3em;
+  text-align: center;
+}
+
 h4 {
   font-family: 'Cedarville Cursive', cursive;
   font-size: 2em;
