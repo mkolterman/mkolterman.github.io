@@ -20,6 +20,11 @@ h2 {
   font-size: 3em;
   text-align: center;
 }
+figcaption {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 3em;
+  text-align: center;
+}
 /* HOME PAGE */
 .social {
   text-decoration: none; 
@@ -62,7 +67,7 @@ button {
   font-family: 'Cedarville Cursive', cursive;
   border-radius: 25%;
   background-color: cornflowerblue;
-  border-block-color: black;
+  border-color: black;
 }
 /* NAV BAR */
 /* Style the links inside the pill navigation menu */
@@ -73,7 +78,7 @@ button {
   padding: 14px;
   text-decoration: none;
   font-family: 'Cedarville Cursive', cursive;
-  font-size: 2em;
+  font-size: 20px;
   border-radius: 5px;
 }
 
