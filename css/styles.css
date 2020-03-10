@@ -7,7 +7,7 @@ Common Colors:
 Typography
 Title Font- font-family: 'Cedarville Cursive', cursive; font-size: 3em;
 Subtitle Font- font-family:'Cedarville Cursive', cursive; font-size: 2em;
-Body Font- font-family: 'Bellota', cursive;
+Body Font- font-family: 'Bellota', cursive; font-size: 1em;
 */
 
 /* 404 PAGE */
@@ -28,6 +28,8 @@ figcaption {
 /* HOME PAGE */
 .social {
   text-decoration: none; 
+  font-family: 'Bellota', cursive;
+  font-size: 1em;
 }
 h4 {
   font-family: 'Cedarville Cursive', cursive;
@@ -39,6 +41,8 @@ img {
   border-radius:50%;
   float:left;
   margin:1.5em;
+  position: sticky;
+  
 }
 h1 {
   color:cornflowerblue;
