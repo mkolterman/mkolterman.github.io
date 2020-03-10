@@ -7,9 +7,9 @@ mkolterman.art
 * Secondary: cornflower, black
 ### Typography
 * Primary: Roboto
-* Secondary: Permanent Marker
+* Secondary: 'Cedarville Cursive', cursive;
 
 ## References
 * [Normalize](https://necolas.github.io/normalize.css/)
-* [Google Fonts](https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap) 
-* [More Google Fonts](https://fonts.googleapis.com/css?family=Roboto&display=swap)
+* [Google Fonts](https://fonts.googleapis.com/css?family=Cedarville+Cursive&display=swap)
+* [More Google Fonts]
