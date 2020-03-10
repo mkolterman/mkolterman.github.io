@@ -21,10 +21,8 @@ h2 {
   text-align: center;
 }
 /* HOME PAGE */
-
 .social {
-  text-decoration: none;
-  
+  text-decoration: none; 
 }
 h4 {
   font-family: 'Cedarville Cursive', cursive;
@@ -51,6 +49,17 @@ main {
   column-count:2;
   column-width:300px;
   column-span: all;
+}
+/* CONTACT */
+#contact {
+  color:black;
+  font-size:1em;
+  font-family: 'Cedarville Cursive', cursive;
+}
+button {
+  color:black;
+  font-size:1em;
+  font-family: 'Cedarville Cursive', cursive;
 }
 /* NAV BAR */
 /* Style the links inside the pill navigation menu */
