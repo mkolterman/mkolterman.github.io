@@ -5,9 +5,9 @@ Common Colors:
   *Secondary- black
 
 Typography
-Title Font- font-family: 'Permanent Marker', cursive;
-Subtitle Font- font-family: 'Permanent Marker', cursive; font-size: 1em;
-Body Font- font-family: 'Cedarville Cursive', cursive;
+Title Font- font-family: 'Cedarville Cursive', cursive; font-size: 3em;
+Subtitle Font- font-family:'Cedarville Cursive', cursive; font-size: 2em;
+Body Font- font-family: 'Bellota', cursive;
 */
 
 /* 404 PAGE */
@@ -16,12 +16,12 @@ Body Font- font-family: 'Cedarville Cursive', cursive;
   width: 800px;
 }
 h2 {
-  font-family: 'Cedarville Cursive', cursive;
+  font-family:'Cedarville Cursive', cursive;
   font-size: 3em;
   text-align: center;
 }
 figcaption {
-  font-family: 'Cedarville Cursive', cursive;
+  font-family:'Bellota', cursive;
   font-size: 3em;
   text-align: center;
 }
@@ -35,7 +35,7 @@ h4 {
   margin-bottom:0;
 }
 img {
-  width:100px;
+  width:300px;
   border-radius:50%;
   float:left;
   margin:1.5em;
@@ -50,7 +50,7 @@ h1 {
 main {
   color:black;
   font-size:1em;
-  font-family: 'Cedarville Cursive', cursive;
+  font-family:'Bellota', cursive;
   column-count:2;
   column-width:300px;
   column-span: all;
@@ -59,7 +59,7 @@ main {
 #contact {
   color:black;
   font-size:2em;
-  font-family: 'Cedarville Cursive', cursive;
+  font-family:'Bellota', cursive;
 }
 button {
   color:white;
