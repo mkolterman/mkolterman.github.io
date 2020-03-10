@@ -53,13 +53,16 @@ main {
 /* CONTACT */
 #contact {
   color:black;
-  font-size:1em;
+  font-size:2em;
   font-family: 'Cedarville Cursive', cursive;
 }
 button {
-  color:black;
+  color:white;
   font-size:1em;
   font-family: 'Cedarville Cursive', cursive;
+  border-radius: 25%;
+  background-color: cornflowerblue;
+  border-block-color: black;
 }
 /* NAV BAR */
 /* Style the links inside the pill navigation menu */
@@ -70,7 +73,7 @@ button {
   padding: 14px;
   text-decoration: none;
   font-family: 'Cedarville Cursive', cursive;
-  font-size: 20px;
+  font-size: 2em;
   border-radius: 5px;
 }
 
