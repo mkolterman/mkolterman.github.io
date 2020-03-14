@@ -11,7 +11,7 @@ Body Font- font-family: 'Bellota', cursive; font-size: 1em;
 */
 
 /* 404 PAGE */
-h2 {
+.oops {
   font-family:'Cedarville Cursive', cursive;
   font-size: 3em;
   text-align: center;
@@ -44,11 +44,11 @@ img {
 h1 {
   color:cornflowerblue;
   font-family: 'Cedarville Cursive', cursive;
-  font-size: 4em;
+  font-size: 3em;
   letter-spacing: 5px;
   text-align: center;
 }
-main {
+.main {
   color:black;
   font-size:1em;
   font-family:'Bellota', cursive;
@@ -70,6 +70,18 @@ button {
   background-color: cornflowerblue;
   border-color: black;
 }
+/* ARTWORK */
+h2 {
+  font-family: 'Bellota', cursive;
+  font-size: 2em;
+  margin-bottom:0;
+}
+figcaption {
+  color:black;
+  font-size:.5em;
+  font-family:'Bellota', cursive;
+}
+
 /* NAV BAR */
 /* Style the links inside the pill navigation menu */
 .pill-nav a {
